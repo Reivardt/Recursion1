@@ -1,0 +1,14 @@
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\bin\Debug\net7.0\Recursion1.exe
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\bin\Debug\net7.0\Recursion1.deps.json
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\bin\Debug\net7.0\Recursion1.runtimeconfig.json
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\bin\Debug\net7.0\Recursion1.dll
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\bin\Debug\net7.0\Recursion1.pdb
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\Recursion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\Recursion1.AssemblyInfoInputs.cache
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\Recursion1.AssemblyInfo.cs
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\Recursion1.csproj.CoreCompileInputs.cache
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\Recursion1.dll
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\refint\Recursion1.dll
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\Recursion1.pdb
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\Recursion1.genruntimeconfig.cache
+C:\Users\kater\Desktop\my\Обучение\Аналитика\Recursion\Recursion1\obj\Debug\net7.0\ref\Recursion1.dll
